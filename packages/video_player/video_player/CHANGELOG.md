@@ -66,6 +66,7 @@
 
 ## 0.10.11+2
 
+* Fix issue where `isBuffering` is not updating on Android.
 * Fix aspectRatio calculation when size.width or size.height are zero.
 
 ## 0.10.11+1
